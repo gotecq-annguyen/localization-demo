@@ -1,0 +1,8 @@
+{
+  "api": {
+    "error_message": {
+      "A1000": "Việc cần làm này chưa được hoàn thành",
+      "A1001": "Bình luận này không được tìm thấy"
+    }
+  }
+}
